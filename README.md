@@ -6,7 +6,6 @@ This is the code for the [SaTML'23 paper](https://arxiv.org/pdf) "Backdoor Attac
 * Python (3.9.7)
 * Pytorch (1.10.0)
 * CUDA (with 4 GPUs)
-* numpy (1.22.4)
 
 ## How to run
 
