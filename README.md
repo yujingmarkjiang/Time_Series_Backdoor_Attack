@@ -1,6 +1,5 @@
 # TSBA: Time Series Backdoor Attack
 
-# DH-AT: Dual Head Adversarial Training 
 This is the code for the [SaTML'23 paper](https://arxiv.org/pdf) "Backdoor Attacks on Time Series: A Generative Approach" by Yujing Jiang, Xingjun Ma, Sarah Monazam Erfani, and James Bailey.
 
 ## Prerequisites
@@ -8,6 +7,8 @@ This is the code for the [SaTML'23 paper](https://arxiv.org/pdf) "Backdoor Attac
 * Pytorch (1.10.0)
 * CUDA (with 4 GPUs)
 * numpy (1.22.4)
+
+## How to run
 
 All 13 datasets used in this paper have been included.
 
