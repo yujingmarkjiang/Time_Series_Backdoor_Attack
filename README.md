@@ -1,6 +1,6 @@
 # TSBA: Time Series Backdoor Attack
 
-This is the code for the [SaTML'23 paper](https://arxiv.org/pdf) "Backdoor Attacks on Time Series: A Generative Approach" by Yujing Jiang, Xingjun Ma, Sarah Monazam Erfani, and James Bailey.
+This is the code for the [SaTML'23 paper](https://arxiv.org/pdf/2211.07915.pdf) "Backdoor Attacks on Time Series: A Generative Approach" by Yujing Jiang, Xingjun Ma, Sarah Monazam Erfani, and James Bailey.
 
 ## Prerequisites
 * Python (3.9.7)
@@ -37,7 +37,7 @@ python main.py run_backdoor generative_test
 ```
 
 ## Reference
-For technical details and full experimental results, please check [the paper](https://arxiv.org/pdf).
+For technical details and full experimental results, please check [the paper](https://arxiv.org/pdf/2211.07915.pdf).
 ```
 @inproceedings{xxxxx,
   title={Backdoor Attacks on Time Series: A Generative Approach},
