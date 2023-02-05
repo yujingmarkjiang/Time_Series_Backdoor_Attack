@@ -1,0 +1,8 @@
+scikit-learn==0.24.1
+matplotlib==3.3.4
+keras-nightly==2.5.0.dev2021032900
+h5py==3.1.0
+pandas==1.2.4
+numpy==1.19.5
+scipy==1.6.2
+tensorflow==2.5.0
