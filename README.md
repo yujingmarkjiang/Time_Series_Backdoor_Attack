@@ -7,6 +7,11 @@ This is the code for the [SaTML'23 paper](https://arxiv.org/pdf/2211.07915.pdf) 
 * Pytorch (1.10.0)
 * CUDA (with 4 GPUs)
 
+## Data 
+The data used in this project comes from two sources: 
+* The [UCR/UEA archive](http://timeseriesclassification.com/TSC.zip), which contains the 85 **univariate** time series datasets. 
+* The [MTS archive](https://drive.google.com/drive/folders/1FgIPN3uUT-b1tiHG-ONi5B31iPN3BMNy?usp=sharing), which contains the 13 **multivariate** time series datasets.
+
 ## How to run
 
 To run the clean model:
